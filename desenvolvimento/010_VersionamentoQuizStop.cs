@@ -1,3 +1,30 @@
+# 10_VersionamentoQuizStop
+- Neste versionamento do jogo Palavras,  o componente AudioMixer.cs foi criado, onde será organizado os efeitos
+- sonoros, cliques forem necessário neste quiz.
+- <img src="AudioMixer.png" width="500px">
+
+ 
+# CÓDIGO FONTE DOS EFEITOS SONOROS:
+ - https://www.youtube.com/watch?v=N8whM1GjH4w&list=PLf6aEENFZ4Fv0ifncKE3T05qrI450U_aD&index=18
+   
+# CÓDIGO FONTE DO GAME:
+- 1 https://www.youtube.com/watch?v=AAGuuSVBk8M&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=1
+
+#
+- 2 https://www.youtube.com/watch?v=M0viZrgunNI&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=2
+
+#
+- 3 https://www.youtube.com/watch?v=NwtiYSVplHA&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=3
+
+#
+- 4 https://www.youtube.com/watch?v=5XCDkd61-i8&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=4
+
+#
+- 5 https://www.youtube.com/watch?v=aDTtgv3RgCQ&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=5
+
+#
+- 6 https://www.youtube.com/watch?v=r4MFdbkIM0M&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=10
+
 
 using System;
 using Unity.VisualScripting;
